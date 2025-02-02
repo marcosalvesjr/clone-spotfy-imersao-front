@@ -113,6 +113,9 @@
 }
 .playlist .greeting-subtitle {
   color: #fff;
+  font-size: 32px;
+  font-weight: 700;
+  margin-bottom: 48px;
 }
 
 .playlist .session {
